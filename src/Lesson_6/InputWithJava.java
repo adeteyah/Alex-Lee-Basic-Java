@@ -1,0 +1,1 @@
+package Lesson_6;import java.util.Scanner;public class InputWithJava {    public static void main(String[] args) {        Scanner s = new Scanner(System.in);        System.out.print("Enter Pokemon 1: ");        String pokemon1 = s.nextLine();        System.out.println(pokemon1);    }}

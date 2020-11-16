@@ -1,0 +1,1 @@
+package Lesson_2;public class Print {    public static void main(String[] args) {        //https://www.youtube.com/watch?v=xGAGDp-6IU4&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ&index=2        System.out.println("*");        System.out.println("**");        System.out.println("***");        System.out.println("**");        System.out.println("*");    }}

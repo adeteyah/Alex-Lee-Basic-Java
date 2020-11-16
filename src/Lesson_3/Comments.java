@@ -1,0 +1,1 @@
+package Lesson_3;public class Comments {    /**     * Buat dokumentasi Java Doc     * @param args     */    public static void main(String[] args) {        //https://www.youtube.com/watch?v=yxIAXB1wk7w&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ&index=3        //Singleline Comment        /*        * Multiline        * Comment        * */    }}

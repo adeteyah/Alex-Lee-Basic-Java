@@ -1,0 +1,1 @@
+package Lesson_1;public class HowToCode {    public static void main(String[] args) {        //https://www.youtube.com/watch?v=az6SehZyY7U&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ        System.out.println("Alex Lee");    }}

@@ -1,0 +1,1 @@
+package Lesson_4;public class StringProgram {    public static void main(String[] args) {        //https://www.youtube.com/watch?v=3xuJIaP3C4g&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ&index=4        System.out.println("Madlibs!");        String verb = "fuck";        System.out.println("Steve accidentally %sed his sister".formatted(verb));    }}
